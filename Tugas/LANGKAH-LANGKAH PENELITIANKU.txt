@@ -1,0 +1,13 @@
+hal yang saya lakukan untuk penelitianku 
+1. apa permasalahan dalam penelitianmu
+   jawab: susahnya mencari daftar organisasi atau lembaga yang berkerjasama dengan fmipa
+2. apa yang ada akan lakukan
+   jawab: saya akan membuat aplikasi repository dimana dalam aplikasi tersebut fungsinya 
+           untuk menyimban berkas mou atau mau dengan rapi sehingga sewaktu-waktu ada 
+         yang membutuhkan tinggal cari saja di aplikasi yang saya buat
+3. langka-langkah untuk membuat aplikasi kamu itu bagaimana
+   - intruksi dari dosen pagun
+      a. mencari aplikasi yang sesuai dengan penelitianku sehingga ada gambaran apalikasi yang saya akan buat
+      b. mencari jurnal yang membahas tentang pembuatan aplikasi sistem informasi kerja sama
+      c. setelah saya sudah tau maka langsung buat templatenya bagaimana model aplikasi yang saya akan buat nanti
+      d. kasih lihat pak dosen pak gun model aplikasinya bagaimana sapa tau ada koreksi
